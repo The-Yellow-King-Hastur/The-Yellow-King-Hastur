@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @The-Yellow-King-Hastur
+- 👀 I’m interested in too many things to list, ADHD causes me to learn everything I can.
+- 🌱 I’m currently learning C#, Python, XML, Powershell
